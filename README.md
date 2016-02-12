@@ -10,10 +10,10 @@
 ### Setup
 
 #### Prerequisites
-This project is set up to use Maven. If you do not have Maven installed, you can grab it from https://maven.apache.org/download.cgi.
-1. Extract the contents to a directory of your choosing.
+This project is set up to use Maven. If you do not have Maven installed, you can grab it from https://maven.apache.org/download.cgi.  
+1. Extract the contents to a directory of your choosing.  
 2. Inside the extracted directory there is a bin directory. Add the path to the __bin__ directory to the __PATH__ environment variable.  
-_E.g. C:\Program Files (x86)\Maven\apache-maven-3.3.9\bin_
+_E.g. C:\Program Files (x86)\Maven\apache-maven-3.3.9\bin_  
 3. Maven needs to be able to find the JDK. Create a new environment variable called __JAVA_HOME__ and set it to the __path of the installed JDK__.  
 _E.g. C:\Program Files\Java\jdk1.8.0_72_
 
